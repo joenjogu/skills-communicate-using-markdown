@@ -6,3 +6,9 @@
 ```
 val hello = "world"
 ```
+
+#### Checklist
+
+- [ ] Add changed files
+- [ ] Commit changes
+- [ ] Push and open a pull request
